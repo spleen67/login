@@ -171,4 +171,5 @@ modules.xml
 !.vscode/extensions.json
 *.code-workspace
 
+android/app/google-services.json
 # End of https://www.toptal.com/developers/gitignore/api/flutter,intellij+all,vscode,firebase
